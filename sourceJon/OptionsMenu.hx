@@ -51,6 +51,7 @@ class OptionsMenu extends MusicBeatState
 			
 			new FPSOption("Toggle the FPS Counter"),
 			new ReplayOption("View replays")
+		        new BotPlay("Showcase your charts and mods with autoplay.")
 		])
 		#end
 	];
