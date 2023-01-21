@@ -46,7 +46,6 @@ class OptionsMenu extends MusicBeatState
 			new AccuracyOption("Display accuracy information."),
 			new NPSDisplayOption("Shows your current Notes Per Second.")
 		]),
-		#if !mobile
 		new OptionCatagory("Misc", [
 			
 			new FPSOption("Toggle the FPS Counter"),
